@@ -8,7 +8,7 @@ I am also Passionate about Blockchain Technology.
 
 - 🌱 I’m currently learning **Nextjs, Redux, Blockchain Development.**
 
-- 💬 Ask me about **Vue, NuxtJS, NextJS, Nodejs,**
+- 💬 Ask me about **Javascript, Vue, Nodejs,**
 
 - 📫 How to reach me **chusmanliaqat1020@gmail.com**
 ## 🏆 GitHub Trophy
