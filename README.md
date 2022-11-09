@@ -18,7 +18,7 @@ I am also Passionate about Blockchain Technology.
 ## 
 ## 📊 Stats
 
-[![trophy](https://github-readme-stats.vercel.app/api?username=usmanliaqat99&theme=blue-green)](https://github.com/codescientists/github-profile-trophy) 
+[![trophy](https://github-readme-stats.vercel.app/api?username=usmanliaqat99&theme=blue-green)](https://github.com/usmanliaqat99/github-profile-trophy) 
 
 ## 👨‍💻 Connect with me 
 
