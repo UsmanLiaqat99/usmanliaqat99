@@ -13,12 +13,12 @@ I am also Passionate about Blockchain Technology.
 - 📫 How to reach me **chusmanliaqat1020@gmail.com**
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=usmanliaqat99&theme=onedark&row=1&column=6)]
+![trophy](https://github-profile-trophy.vercel.app/?username=usmanliaqat99&theme=onedark&row=1&column=6)
 
 ## 
 ## 📊 Stats
 
-[![trophy](https://github-readme-stats.vercel.app/api?username=usmanliaqat99&theme=blue-green)]
+![trophy](https://github-readme-stats.vercel.app/api?username=usmanliaqat99&theme=blue-green)
 
 ## 👨‍💻 Connect with me 
 
