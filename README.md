@@ -25,6 +25,7 @@ I am also Passionate about Blockchain Technology.
 ## 👨‍💻 Connect with me 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usman_liaqat_444)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/usman-liaqat)
 
 ## 🖥 Web Development
 
@@ -68,3 +69,5 @@ I am also Passionate about Blockchain Technology.
 ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
+
+<p align="center"> © 2021 Creative Usman Liaqat, all rights reserved. Made with ❤️ for a better web. </p>
