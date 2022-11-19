@@ -10,7 +10,7 @@ I am also Passionate about Blockchain Technology.
 
 - 💬 Ask me about **Javascript, Vue, Nodejs,**
 
-- 📫 How to reach me **chusmanliaqat1020@gmail.com**
+- 📫 How to reach me **https://usmanliaqat-portofolio.web.app**
 ## 🏆 GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=usmanliaqat99&theme=onedark&row=1&column=6)
