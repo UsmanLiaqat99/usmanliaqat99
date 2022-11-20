@@ -72,4 +72,3 @@ I am also Passionate about Blockchain Technology.
 
 ##
 <p align="center"> © 2021 Creative Usman Liaqat, all rights reserved. Made with ❤️ for a better web. </p>
-##
