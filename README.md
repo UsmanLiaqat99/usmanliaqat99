@@ -8,7 +8,6 @@ I am also Passionate about Blockchain Technology.
 
 ## 🚀 About Me
 
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 - 🌱 I’m currently learning **Nextjs, Redux, Blockchain Development.**
@@ -20,7 +19,7 @@ I am also Passionate about Blockchain Technology.
 
 ## 
 
-🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=usmanliaqat99&theme=onedark&row=1&column=6)
 
