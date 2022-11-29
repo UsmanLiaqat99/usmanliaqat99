@@ -6,7 +6,7 @@ I am also Passionate about Blockchain Technology.
 
 ## 🚀 About Me
 
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+<img align="left" height="150" style="margin-right: 10rem;" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" />
 
 - 🌱 I’m currently learning **Nextjs, Redux, Blockchain Development.**
 
