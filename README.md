@@ -4,8 +4,6 @@ A Full Stack Web Developer. \
 I use Technologies like MERN, VueJS, etc. to make Websites. \
 I am also Passionate about Blockchain Technology. 
 
-##
-
 ## 🚀 About Me
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
@@ -15,7 +13,6 @@ I am also Passionate about Blockchain Technology.
 - 💬 Ask me about **Javascript, Vue, Nodejs,**
 
 - 📫 How to reach me **https://usmanliaqat-portofolio.web.app**
-</span>
 
 ## 
 
