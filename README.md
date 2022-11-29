@@ -18,7 +18,9 @@ I am also Passionate about Blockchain Technology.
 - 📫 How to reach me **https://usmanliaqat-portofolio.web.app**
 </span>
 
-## 🏆 GitHub Trophy
+## 
+
+🏆 GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=usmanliaqat99&theme=onedark&row=1&column=6)
 
