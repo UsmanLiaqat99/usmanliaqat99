@@ -12,7 +12,7 @@ I am also Passionate about Blockchain Technology.
 
 - 💬 Ask me about **Javascript, Vue, Nodejs,**
 
-- 📫 How to reach me **https://usmanliaqat-portofolio.web.app**
+- 📫 How to reach me **https://usman-liaqat.com**
 
 ## 
 
