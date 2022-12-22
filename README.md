@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height=50% width=50%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="GIF" height=48% width=48%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 Hello! I am Usman Liaqat, a Computer Science Student. \
 A Full Stack Web Developer. \
