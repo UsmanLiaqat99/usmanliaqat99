@@ -1,9 +1,6 @@
 <img align="right" alt="GIF" height=48% width=48%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-Hello! I am Usman Liaqat, a Computer Science Student. \
-A Full Stack Web Developer. \
-I use Technologies like MERN, VueJS, etc. to make Websites. \
-I am also Passionate about Blockchain Technology. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Usman+Liaqat;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
