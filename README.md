@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" height=44% width=44%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 Hello! I am Usman Liaqat, a Computer Science Student. \
 A Full Stack Web Developer. \
@@ -6,7 +7,7 @@ I am also Passionate about Blockchain Technology.
 
 ## 🚀 About Me
 
-<img align="left" height="150" style="margin-right: 10rem; position: absolute" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" />
+<img align="left" height="100" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" />
 
 - 🌱 I’m currently learning **Nextjs, Redux, Blockchain Development.**
 
@@ -14,7 +15,6 @@ I am also Passionate about Blockchain Technology.
 
 - 📫 How to reach me **support@usman-liaqat.com**
 
-## 
 
 ## 🏆 GitHub Trophy
 
@@ -74,4 +74,4 @@ I am also Passionate about Blockchain Technology.
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ##
-<p align="center"> © 2021 Creative Usman Liaqat, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2022 Creative Usman Liaqat, all rights reserved. Made with ❤️ </p>
