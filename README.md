@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height=48% width=48%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="GIF" height=40% width=40%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Usman+Liaqat;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
@@ -16,6 +16,12 @@
 ## 🏆 GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=usmanliaqat99&theme=onedark&row=1&column=6)
+
+
+## 🏆 GitHub Hacked Trophy
+
+![Hacked - trophy](https://hacked-github-stat-trophies.vercel.app/?username=UsmanLiaqat99&theme=onedark&row=1&column=6)
+
 
 ## 📊 Stats
 
