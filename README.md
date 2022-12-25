@@ -72,4 +72,7 @@
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ##
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
+##
 <p align="center"> © 2022 Creative Usman Liaqat, all rights reserved. Made with ❤️ </p>
