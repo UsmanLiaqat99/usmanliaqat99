@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=usmanliaqat99)
+
+
 <img align="right" alt="GIF" height=40% width=40%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Usman+Liaqat;Welcome+to+my+Github!)](https://git.io/typing-svg)
