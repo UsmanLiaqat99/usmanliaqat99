@@ -15,11 +15,6 @@
 
 ## 🏆 GitHub Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=usmanliaqat99&theme=onedark&row=1&column=6)
-
-
-## 🏆 GitHub Hacked Trophy
-
 ![Hacked - trophy](https://hacked-github-stat-trophies.vercel.app/?username=UsmanLiaqat99&theme=onedark&row=1&column=6)
 
 
